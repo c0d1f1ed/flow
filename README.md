@@ -1,5 +1,5 @@
-`flow` - C++ template library for integers that don't overflow
-==============================================================
+`flow` - C++ template library for overflow-free integers
+========================================================
 
 Introduction
 ------------
